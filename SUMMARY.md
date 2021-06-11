@@ -5,6 +5,7 @@
 ## Configuración de Red
 
 * [Arquitectura de Red](configuracion-de-red/arquitectura-de-red.md)
+* [Ascensores](configuracion-de-red/ascensores.md)
 
 ## Configuración del Robot
 
