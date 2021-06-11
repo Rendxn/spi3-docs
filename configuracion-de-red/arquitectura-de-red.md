@@ -16,7 +16,9 @@ Los robots MiR requieren una conexión de red estable y constante para funcionar
 
 Los robots de MiR cuentan con una tarjeta de red inalámbrica y un punto de acceso inalámbrico, lo que les permite recibir señales WiFi doble banda a/b/g/n/ac. Entonces, es necesario que haya una señal de buena calidad a través de todo el recorrido en el hotel. Para esto, se deben **incluir puntos de acceso inalámbrico distribuidos según la especificación del modelo escogido**.
 
+{% hint style="info" %}
 La antena incluida en los robots tiene poca ganancia. Si se experiencia algún problema, considere cambiarla por una antena de mayor ganancia que se ajuste a su red. 
+{% endhint %}
 
 ### Ascensores
 

@@ -7,3 +7,5 @@ description: >-
 
 # Transporte de Equipaje con Robots MiR
 
+Para usar los robots MiR en sus instalaciones, primero debe configurar los mapas, elevadores y misiones. También debe tener en cuenta algunos requerimientos de red y comunicación.
+

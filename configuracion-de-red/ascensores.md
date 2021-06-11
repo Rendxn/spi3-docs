@@ -2,7 +2,9 @@
 
 Los ascensores deben controlarse mediante un PLC que tenga su propia dirección IP, que esté conectado a un módulo WISE para trabajar con robots MiR o que se pueda controlar a través de un servidor OPC UA. En ascensores más modernos es posible comunicarse a través de su REST API.
 
+{% hint style="info" %}
 Si es necesario, contacte a su distribuidor para más información.
+{% endhint %}
 
 ### Registro del Ascensor
 
