@@ -13,7 +13,7 @@ Una vez configurado el controlador del ascensor y su dirección IP, se debe regi
 1. Ir a `Fleet > Elevators` y seleccione `Create elevator`.
 2. Nombre el ascensor, ingresa su dirección IP, selecciona el driver que usa, e indica si el robot debe girar dentro del ascensor. Cuando termines, selecciona `Create elevator`.
 
-![Registro de Ascensor en MiR Fleet](../.gitbook/assets/image%20%282%29.png)
+![Registro de Ascensor en MiR Fleet](../.gitbook/assets/image%20%282%29%20%281%29.png)
 
 ### Asignación de Pisos
 
@@ -36,5 +36,5 @@ Una vez registrado el ascensor, siga los siguientes pasos:
 
 Una vez añadidos los pisos, active el ascensor con la palanca: 
 
-![Activaci&#xF3;n de ascensor](../.gitbook/assets/image%20%281%29.png)
+![Activaci&#xF3;n de ascensor](../.gitbook/assets/image%20%285%29.png)
 
