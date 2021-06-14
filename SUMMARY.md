@@ -30,5 +30,5 @@
 * [Prueba de frenos](manual-tecnico/probar-frenos.md)
 * [Usuarios y grupos de usuario](manual-tecnico/usuarios-y-grupos.md)
 * [Paneles de mando](manual-tecnico/paneles-de-mando.md)
-* [Actualizar software](manual-tecnico/actualizar-software.md)
-* [Copias de seguridad](manual-tecnico/copias-de-seguridad.md)
+* [Actualización del software](manual-tecnico/actualizar-software.md)
+* [Realizar copias de seguridad](manual-tecnico/copias-de-seguridad.md)
