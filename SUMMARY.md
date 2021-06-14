@@ -26,7 +26,7 @@
 * [Mapas y zonas](manual-tecnico/mapas-y-zonas.md)
 * [Marcadores y posiciones](manual-tecnico/marcadores-y-posiciones.md)
 * [Misiones](manual-tecnico/misiones.md)
-* [Huellas](manual-tecnico/huellas.md)
+* [Huella](manual-tecnico/huellas.md)
 * [Probar frenos](manual-tecnico/probar-frenos.md)
 * [Usuarios y grupos](manual-tecnico/usuarios-y-grupos.md)
 * [Paneles de mando](manual-tecnico/paneles-de-mando.md)
