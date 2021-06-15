@@ -3,10 +3,10 @@
 * [Transporte de Equipaje con Robots MiR](README.md)
 
 ## Componentes del robot
+
 * [Módulo superior](componentes-del-robot/modulo-superior.md)
 * [Instalación del módulo superior](componentes-del-robot/instalacion-modulo-superior.md)
 * [Estación de carga](componentes-del-robot/estacion-carga.md)
-
 
 ## Configuración del Robot
 
@@ -32,3 +32,4 @@
 * [Paneles de mando](manual-tecnico/paneles-de-mando.md)
 * [Actualización del software](manual-tecnico/actualizar-software.md)
 * [Realizar copias de seguridad](manual-tecnico/copias-de-seguridad.md)
+
